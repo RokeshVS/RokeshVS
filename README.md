@@ -131,8 +131,6 @@ fun_fact:             "I automate things so I have time to automate more things 
   </picture>
 </div>
 
-> 💡 Enable the snake by adding [this GitHub Action](https://github.com/Platane/snk) to `.github/workflows/snake.yml` in this repo.
-
 ---
 
 ## 📌 Featured Projects
