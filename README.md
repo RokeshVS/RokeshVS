@@ -22,11 +22,9 @@
 name:                 "Rokesh V S"
 role:                 "DevOps Engineer | Cloud & Platform Engineer"
 location:             "Tamil Nadu, India 🇮🇳"
-currently_working_on: "Kubernetes event-driven autoscaling with KEDA"
-exploring:            "CloudNative-PG, eBPF, Platform Engineering"
 ask_me_about:
-  - Kubernetes & KEDA
-  - Terraform & IaC
+  - Kubernetes
+  - Terraform
   - CI/CD Pipelines
   - Multi-cloud Architecture (AWS · GCP · Azure)
   - Container Orchestration & GitOps
@@ -57,29 +55,21 @@ fun_fact:             "I automate things so I have time to automate more things 
 [![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)]()
 [![ArgoCD](https://img.shields.io/badge/ArgoCD-1e0477?style=for-the-badge&logo=argo&logoColor=white)]()
 
-**🗄️ Cloud-Native Databases**
-
-[![CloudNativePG](https://img.shields.io/badge/CloudNative--PG-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-
 **🏗️ Infrastructure as Code**
 
 [![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)]()
 [![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)]()
-[![Packer](https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white)]()
 
 **🔄 CI/CD**
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)]()
 [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)]()
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)]()
 
 **📈 Monitoring & Observability**
 
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)]()
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)]()
 [![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)]()
-[![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)]()
 
 **💻 Scripting & Languages**
 
@@ -93,7 +83,6 @@ fun_fact:             "I automate things so I have time to automate more things 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
-[![Vault](https://img.shields.io/badge/Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black)]()
 
 ---
 
