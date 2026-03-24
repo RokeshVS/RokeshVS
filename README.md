@@ -113,14 +113,6 @@ fun_fact:             "I automate things so I have time to automate more things 
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RokeshVS&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🐍 My Contributions
 
 <div align="center">
