@@ -21,7 +21,7 @@
 ```yaml
 name:                 "Rokesh V S"
 role:                 "DevOps Engineer | Cloud & Platform Engineer"
-location:             "Tamil Nadu, India 🇮🇳"
+location:             "Tamil Nadu, India "
 ask_me_about:
   - Kubernetes
   - Terraform
