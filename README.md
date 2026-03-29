@@ -86,22 +86,6 @@ fun_fact:             "I automate things so I have time to automate more things 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RokeshVS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RokeshVS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RokeshVS&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🐍 My Contributions
 
 <div align="center">
@@ -117,11 +101,51 @@ fun_fact:             "I automate things so I have time to automate more things 
 ## 📌 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![KEDA](https://github-readme-stats.vercel.app/api/pin/?username=RokeshVS&repo=keda&theme=tokyonight&hide_border=true)](https://github.com/RokeshVS/keda)
-[![CloudNativePG](https://github-readme-stats.vercel.app/api/pin/?username=RokeshVS&repo=cloudnative-pg&theme=tokyonight&hide_border=true)](https://github.com/RokeshVS/cloudnative-pg)
-[![Infra Templates](https://github-readme-stats.vercel.app/api/pin/?username=RokeshVS&repo=infra-templates&theme=tokyonight&hide_border=true)](https://github.com/RokeshVS/infra-templates)
+### ⚡ [KEDA](https://github.com/RokeshVS/keda)
+> Kubernetes Event-Driven Autoscaling — custom configurations and experiments for scaling workloads based on external event sources.
 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![KEDA](https://img.shields.io/badge/KEDA-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐘 [CloudNative PG](https://github.com/RokeshVS/cloudnative-pg)
+> Cloud-Native PostgreSQL operator setup and configurations for running production-grade Postgres clusters on Kubernetes.
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏗️ [Infra Templates](https://github.com/RokeshVS/infra-templates)
+> Reusable Terraform and Ansible templates for spinning up cloud infrastructure across AWS, GCP, and Azure in minutes.
+
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 [ECS with OPA](https://github.com/RokeshVS/ecs_with_opa)
+> Enforcing Open Policy Agent (OPA) policies on Amazon ECS deployments for fine-grained access control and compliance guardrails.
+
+![AWS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![OPA](https://img.shields.io/badge/OPA-7D3C98?style=flat-square&logo=openpolicyagent&logoColor=white)
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
